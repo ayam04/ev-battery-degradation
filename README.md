@@ -14,8 +14,8 @@ The purpose of this project is to predict RUL of EV batteries by estimating _Bat
 ├── images
 │   ├── mlp_blue.png
 │   └── model.png
-├── report
-│   ├── Report.pdf
+├──Reports
+│   ├── Battery Degradation by Ayamullah Khan.pdf
 │   └── Supplementary.pdf
 ├── requirements.txt
 └── src
